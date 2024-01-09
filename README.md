@@ -27,12 +27,14 @@ Well, "Biryani monies" is a recurring slang in the [JODC Discord server]([https:
 
 ## Timeline
 - Registration: 10th January onwards. [Register here](https://forms.gle/aywVVFQ9bdATXacT9)
-- Opening Ceremony: 12th Jan 2024
+- Opening Ceremony: 12th January 2024
 - Teams Announcement: TBD
 - Theme Announcement: TBD
-- Jamming (Coding Period): TBD
-- Mid Evaluation: TBD
-- Results Meetup: TBD
+- Jamming (Coding Period): 13th - 19th January
+- Evaluation 1 : 16th January
+- Evaluation 2 : 18th January
+- Final Evaluation : 19th January
+- Results Announcement: TBD
 
 ## Format
 - Participants register individually for the Jam, mentioning their technical skills.
