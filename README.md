@@ -1,4 +1,4 @@
-![CodeJam v4 Banner](./assets/5x1banner.png)
+![CodeJam v3 Banner](./assets/5x1banner.png)
 <div align="center">
 <h1> Welcome to OSDCodeJam-v4!</h1>
 </div>
@@ -14,16 +14,16 @@
 - [Judging](#judging)
 
 ## What is Code Jam?
-If you are wondering what Code Jam is, It is a chance to create something with a team. You are paired up with a group of other participants just like yourself with whom you collaborate and make a project on a given theme. You then have around a week's time to create the best project you can. See [Format](#format) for detailed information. This is a joint event organized every year by OSDC and JODC.
+Codejam is the ultimate test of courage,mental strength and physical durability (jk lol), It is a unique online hackathon where you are paired up with a group of random participants just like yourself with whom you collaborate and make a project on a given theme. You then have around a week's time to create the best project you can. See [Format](#format) for detailed information. This is a joint event organized every year by OSDC and JODC.
 
 ## Particulars
-- Main Communication Channel: [OSDC Discord](https://discord.io/osdc)
+- Main Communication Channel: [OSDC Discord]([https://discord.io/osdc](https://discord.com/invite/9m7DhRp3))
 - Theme: *To be announced on 12th January 2024*
-- The winners get Biryani monies in prizes!
+- The winners get Biryani monies + PB&J in prizes!
 
-Well, "Biryani monies" is a recurring slang in the [JODC Discord server](https://discord.io/jodc) (which is a super fun and lively place to hang out btw) which is used to refer to anyone from the community giving someone a treat. Since this is not a sponsored event, we'd like to give the winners some prize from our own side as appreciation. We will be giving prizes in the form of gift cards.
+Well, "Biryani monies" is a recurring slang in the [JODC Discord server]([https://discord.io/jodc](https://discord.gg/Yaq3eNBrwW)) (which is a super fun and lively place to hang out btw) which is used to refer to anyone from the community giving someone a treat. Since this is not a sponsored event, we'd like to give the winners some prize from our own side as appreciation. We will be giving prizes in the form of gift cards.
 
-**NOTE:** This is an online only event. Team members will have to work from their home only.
+**NOTE:** This is an online only event. Team members will have to work and collaborate online using discord and other means of communication.
 
 ## Timeline
 - Registration: 10th January onwards. [Register here](https://forms.gle/aywVVFQ9bdATXacT9)
@@ -39,7 +39,7 @@ Well, "Biryani monies" is a recurring slang in the [JODC Discord server](https:/
 - The organizers group the participants in teams of 3 (or 4, depending on the number of registrations) based on their skills and experience to have teams with equal skill levels.
 - The organizers announce the teams and theme for the Jam.
 - Team members communicate and collaborate to make a project within the 5 days of the Jam that fits their interpretation of the theme. 
-- All communications will be through the [OSDC Discord](https://discord.io/osdc) Server.
+- All communications will be through the [OSDC Discord](https://discord.com/invite/9m7DhRp3) Server.
 - Teams showcase their ideas during the mid evaluation.
 - The project is [submitted to this repo](#submitting-your-project) via a Pull Request.
 - The guest judges choose the winners based on the [judging criteria](#judging), which will be announced, and their projects showcased on the Results Meetup.
@@ -48,7 +48,7 @@ Well, "Biryani monies" is a recurring slang in the [JODC Discord server](https:/
 The submissions for this Jam will be through Pull Requests. Follow these steps to create a PR:
 
 ### 1. Fork this repository
-Start by [forking this repository.](https://github.com/osdc/codejam-v3/fork) Only one team member needs to do this, the other members can fork that person's fork and work on it.
+Start by [forking this repository.](https://github.com/osdc/codejam-v4/fork) Only one team member needs to do this, the other members can fork that person's fork and work on it.
 
 ### 2. Find your team folder in the repository
 The repository should already contain a subdirectory named after your team. All your project files must be contained within your team's subdirectory only. If you make any changes to files other than those in your team folder, we will not be able to merge your PR.
