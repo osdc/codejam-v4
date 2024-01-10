@@ -28,7 +28,7 @@ Well, "Biryani monies" is a recurring slang in the [JODC Discord server]([https:
 ## Timeline
 - Registration: 10th January onwards. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf3_TWrZMaHnlcXnzMO-tPE6ai3TAyM6MLlwO8LAea2I6VUKg/viewform?usp=send_form)
 - Opening Ceremony: 12th January 2024
-- Teams Announcement: TBD
+- Teams Announcement: 12th January 2024
 - Jamming (Coding Period): 13th - 19th January
 - Evaluation 1 : 16th January
 - Evaluation 2 : 18th January
@@ -37,7 +37,7 @@ Well, "Biryani monies" is a recurring slang in the [JODC Discord server]([https:
 
 ## Format
 - Participants register individually for the Jam, mentioning their technical skills.
-- The organizers group the participants in teams of 3 (or 4, depending on the number of registrations) based on their skills and experience to have teams with equal skill levels.
+- The organizers group the participants in teams of 4 (or 5, depending on the number of registrations) based on their skills and experience to have teams with equal skill levels.
 - The organizers announce the teams and theme for the Jam.
 - Team members communicate and collaborate to make a project within the 5 days of the Jam that fits their interpretation of the theme. 
 - All communications will be through the [OSDC Discord](https://discord.com/invite/9m7DhRp3) Server.
@@ -69,14 +69,20 @@ When working as a team, you should consider learning about feature branches so t
 We will be having a daily quiz on each day during the Jamming Period. It's a fun activity in which all the participants can participate individually. Participation in the quizzes is optional, but we encourage all participants to take part as it is a great way to test your knowledge and skills. The top performers in each quiz will be recognized and rewarded.
 
 ## Rules
-- This Jam is only open for JIIT Noida students (Both 62 and 128).
-- There is no restriction on the type of project you come up with, or the languages you use. It can be anything from a web app to a system library.
-- You must document precisely how to install, setup and run your project. This should be as easy as possible (consider using dependency managers).
-- All code must be written and committed within the time constrictions of the Jam. Late commits may be reverted, so make sure you leave enough time to bug test your program.
-- You can reuse code from other open source projects provided that you give them appropriate attribution and follow their LICENSE agreements.
-- You must get contributions from every member of your team, if you have an issue with someone on your team please contact a member of the administration team. These contributions do not necessarily have to be code, for example it's absolutely fine for someone to contribute management, documentation, graphics or audio. Team members that do not contribute will be removed from the Code Jam.
-- You must use Git as a version control system.
-- All code and assets must be compatible with an Open-Source license. This is because we will be merging your submission into this repo at the end of the jam.
+1. This Jam is only open for JIIT Noida students.
+2. The team size requirement is limited to 4-5 members made by OSDC CT members after registration..
+3. Any language, library, framework, and open-source code can be used by teams in their work.
+4. You must document exactly how to install, configure, and operate your project. This should be as simple as feasible. You can consider using dependency management.
+5. All code must be written and committed within the Jam's timeframe. Late commits may be reverted; therefore allow extra time to thoroughly test your programme.
+6. You can reuse code from other open source projects as long as you offer proper attribution and obey their LICENSE agreements.
+7. Each member of your team needs to contribute, therefore please get in touch with an admin team member if you have a problem with someone on your team. Code is not a prerequisite for these contributions; administration, documentation, graphics, and music are all perfectly acceptable examples. Non-contributing team members will be kicked out of the Code Jam.
+8. Teams can gain advice and support from organizers, volunteers, and others.
+9. You must use Git as a version control system.
+10. Code reviews will be conducted on all projects that the judges have chosen as finalists in order to verify that the code is unique work and that all materials and components adhere to the restrictions permitted by these guidelines.
+11. Teams can work on ideas that have already been done. If somebody wants to work on a common idea, they will be allowed to do so and will be judged on the quality of their hack.
+12. It is not permitted to work on projects that break the code of conduct.
+13. All code and materials must comply with an Open-Source license. This is because your entry will be merged into this repository at the end of the jam.
+
 
 
 ## Judging
