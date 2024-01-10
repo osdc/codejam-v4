@@ -14,11 +14,11 @@
 - [Judging](#judging)
 
 ## What is Code Jam?
-Codejam is the ultimate test of courage,mental strength and physical durability (jk lol), It is a unique online hackathon where you are paired up with a group of random participants just like yourself with whom you collaborate and make a project on a given theme. You then have around a week's time to create the best project you can. See [Format](#format) for detailed information. This is a joint event organized every year by OSDC and JODC.
+Codejam is the ultimate test of courage, mental strength and physical durability (jk lol), It is a unique online hackathon where you are paired up with a group of random participants just like yourself with whom you collaborate and make a project on a given theme. You then have around a week's time to create the best project you can. See [Format](#format) for detailed information. This is a joint event organized every year by OSDC and JODC.
 
 ## Particulars
 - Main Communication Channel: [OSDC Discord]([https://discord.io/osdc](https://discord.com/invite/9m7DhRp3))
-- Theme: *To be announced on 12th January 2024*
+- Theme: Give Life Back to Music 🎵
 - The winners get Biryani monies + PB&J in prizes!
 
 Well, "Biryani monies" is a recurring slang in the [JODC Discord server]([https://discord.io/jodc](https://discord.gg/Yaq3eNBrwW)) (which is a super fun and lively place to hang out btw) which is used to refer to anyone from the community giving someone a treat. Since this is not a sponsored event, we'd like to give the winners some prize from our own side as appreciation. We will be giving prizes in the form of gift cards.
@@ -26,10 +26,9 @@ Well, "Biryani monies" is a recurring slang in the [JODC Discord server]([https:
 **NOTE:** This is an online only event. Team members will have to work and collaborate online using discord and other means of communication.
 
 ## Timeline
-- Registration: 10th January onwards. [Register here](https://forms.gle/aywVVFQ9bdATXacT9)
+- Registration: 10th January onwards. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf3_TWrZMaHnlcXnzMO-tPE6ai3TAyM6MLlwO8LAea2I6VUKg/viewform?usp=send_form)
 - Opening Ceremony: 12th January 2024
 - Teams Announcement: TBD
-- Theme Announcement: TBD
 - Jamming (Coding Period): 13th - 19th January
 - Evaluation 1 : 16th January
 - Evaluation 2 : 18th January
