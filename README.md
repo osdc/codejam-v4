@@ -69,6 +69,7 @@ When working as a team, you should consider learning about feature branches so t
 We will be having a daily quiz on each day during the Jamming Period. It's a fun activity in which all the participants can participate individually. Participation in the quizzes is optional, but we encourage all participants to take part as it is a great way to test your knowledge and skills. The top performers in each quiz will be recognized and rewarded.
 
 ## Rules
+0. No websites as projects, please.
 1. This Jam is only open for JIIT Noida students.
 2. The team size requirement is limited to 4-5 members made by OSDC CT members after registration..
 3. Any language, library, framework, and open-source code can be used by teams in their work.
