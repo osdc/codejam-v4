@@ -1,3 +1,21 @@
 [submodule "submissions/Live-MIDI-with-OpenCV"]
 	path = submissions/Live-MIDI-with-OpenCV
 	url = https://github.com/abhis1n/Live-MIDI-with-OpenCV
+[submodule "submissions/TerrorTunes"]
+	path = submissions/TerrorTunes
+	url = https://github.com/Nandini80/TerrorTunes
+[submodule "submissions/musique"]
+	path = submissions/musique
+	url = https://github.com/Sushwetabm/musique
+[submodule "submissions/CodeJam"]
+	path = submissions/CodeJam
+	url = https://gitlab.com/uegames/CodeJam
+[submodule "submissions/codejam-v4"]
+	path = submissions/codejam-v4
+	url = https://github.com/vanshiz/codejam-v4
+[submodule "submissions/daftpunker"]
+	path = submissions/daftpunker
+	url = https://github.com/codeblech/daftpunker
+[submodule "submissions/ONLINE-DAW"]
+	path = submissions/ONLINE-DAW
+	url = https://github.com/Daman2461/ONLINE-DAW
