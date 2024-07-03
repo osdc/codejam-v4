@@ -1,0 +1,3 @@
+[submodule "submissions/Live-MIDI-with-OpenCV"]
+	path = submissions/Live-MIDI-with-OpenCV
+	url = https://github.com/abhis1n/Live-MIDI-with-OpenCV
